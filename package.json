@@ -1,0 +1,15 @@
+{
+  "name": "ramsbackendautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chakram": "^1.5.0"
+  },
+  "scripts": {
+    "test": "mocha --timeout 100000 index.js"
+  }
+}
